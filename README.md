@@ -10,10 +10,6 @@
   - **Founder of Strater**: At Strater, I’m focusing on helping students manage their studies through AI tools like automatic note-taking, video summaries, custom module creation, and more.
   - **Telegram Chatbot**: Built a custom Telegram bot to streamline user interactions and automate tasks efficiently.
 
-- 💞️ **I’m looking to collaborate on** innovative AI-powered products, scalable full-stack applications, and open-source projects that make a difference.
-
-- 📫 **How to reach me**: You can connect with me via email at letsmailayushtiwari.com or through LinkedIn [Ayush Tiwari](https://linkedin.com/in/ayush-tiwari).
-
 - 😄 **Pronouns**: He/Him
 
 ## 🛠️ Tech Stack & Tools I Work With:
@@ -42,6 +38,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+
+
+- 💞️ **I’m looking to collaborate on** innovative AI-powered products, scalable full-stack applications, and open-source projects that make a difference.
+
+- 📫 **How to reach me**: You can connect with me via email at letsmailayushtiwari.com or through LinkedIn [Ayush Tiwari](https://linkedin.com/in/ayush-tiwari).
 
 - ⚡ **Fun fact**: I’m a hackathon enthusiast with a love for solving complex problems with creative tech solutions!
 
