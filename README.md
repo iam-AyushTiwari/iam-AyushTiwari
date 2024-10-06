@@ -10,48 +10,50 @@
   - **Founder of Strater**: At Strater, I’m focusing on helping students manage their studies through AI tools like automatic note-taking, video summaries, custom module creation, and more.
   - **Telegram Chatbot**: Built a custom Telegram bot to streamline user interactions and automate tasks efficiently.
 
-- 😄 **Pronouns**: He/Him
+## 🌟 **Tech Stack**
 
-## 🛠️ Tech Stack & Tools I Work With:
-
-### Languages
-<p>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Langchain-FFCE45?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
-### Frameworks & Libraries
-<p>
-  <img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png" alt="React" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="40" height="40"/>
+---
+
+
+
+<!---
+## 🔥 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iam-AyushTiwari&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-AyushTiwari&theme=radical" alt="GitHub Streak">
+</p>
+--->
+
+---
+
+## 🌐 **Connect with Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/letsconnectayushtiwari/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://github.com/iam-AyushTiwari"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+  <a href="mailto:letsmailayushtiwari@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 </p>
 
-### Databases
-<p>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
-</p>
-
-### Tools
-<p>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" width="40" height="40"/>
-</p>
 
 
 - 💞️ **I’m looking to collaborate on** innovative AI-powered products, scalable full-stack applications, and open-source projects that make a difference.
-
-- 📫 **How to reach me**: You can connect with me via email at letsmailayushtiwari.com or through LinkedIn [Ayush Tiwari](https://linkedin.com/in/ayush-tiwari).
-
-- ⚡ **Fun fact**: I’m a hackathon enthusiast with a love for solving complex problems with creative tech solutions!
 
 <!---
 iam-AyushTiwari/iam-AyushTiwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
