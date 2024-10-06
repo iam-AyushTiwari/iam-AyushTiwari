@@ -12,7 +12,7 @@
 
 - 💞️ **I’m looking to collaborate on** innovative AI-powered products, scalable full-stack applications, and open-source projects that make a difference.
 
-- 📫 **How to reach me**: You can connect with me via email at ayushtiwari@example.com or through LinkedIn [Ayush Tiwari](https://linkedin.com/in/ayush-tiwari).
+- 📫 **How to reach me**: You can connect with me via email at letsmailayushtiwari.com or through LinkedIn [Ayush Tiwari](https://linkedin.com/in/ayush-tiwari).
 
 - 😄 **Pronouns**: He/Him
 
